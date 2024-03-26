@@ -1,16 +1,21 @@
-### Hi there 👋
+<!-- Level 1: Simple bio and stats -->
+### Hi Professional's, I'm Shubhangi 👋
 
-<!--
-**rishubhangii/rishubhangii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌐 Programming Languages: Python🐍, JavaScript, Java, and C++
+- 📝 Web Development: HTML, CSS, and JavaScript</br>📌proficient in popular web frameworks such as React.js and Node.js 
+- 🦾 Database Management: SQL and NoSQL databases such as MySQL, PostgreSQL, and MongoDB
+- 🌱 Software Development: experienced in agile development practices, version control systems such as Git, and continuous integration/continuous deployment (CI/CD) pipelines.
+- 🧠 Problem-Solving: I thrive on tackling challenging problems and devising innovative solutions.
+- ⚓ Collaboration and Communication: I am experienced in working within interdisciplinary teams, articulating technical concepts to non-technical stakeholders, and actively contributing to constructive discussions and decision-making processes. 
+- 🐣 Continuous Learner : In the dynamic field of technology, I embrace lifelong learning as a 
+cornerstone of professional growth.
+- 🤔 I’m looking for help with Networking.
+- 📫 How to reach me:📌:[My Email](Officialshubhangishukla@gmail.com)
+                     📌:[My Linkedin](https://www.linkedin.com/in/shubhangi-shukla-b00630300/)
+                     📌:[My Instagram](https://www.instagram.com/rishubhangi/)
+- ⚡ Fun fact: I'm an Introvert So, Respect that🦋.
 
-Here are some ideas to get you started:
+<!-- Github stats from https://github.com/rishubhangii/github-readme-stats-->
+[![Shubhangi's github stats](https://github-readme-stats.vercel.app/api?username=rishubhangii&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
