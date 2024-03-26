@@ -10,8 +10,7 @@
 - 🐣 Continuous Learner : In the dynamic field of technology, I embrace lifelong learning as a 
 cornerstone of professional growth.
 - 🤔 I’m looking for help with Networking.
-- 📫 How to reach me:📌:[My Email](Officialshubhangishukla@gmail.com)
-                     📌:[My Linkedin](https://www.linkedin.com/in/shubhangi-shukla-b00630300/)
+- 📫 How to reach me:📌:[My Linkedin](https://www.linkedin.com/in/shubhangi-shukla-b00630300/)
                      📌:[My Instagram](https://www.instagram.com/rishubhangi/)
 - ⚡ Fun fact: I'm an Introvert So, Respect that🦋.
 
